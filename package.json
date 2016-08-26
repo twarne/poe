@@ -1,0 +1,28 @@
+{
+  "name": "poe",
+  "version": "1.0.0",
+  "description": "An ASK skill for reciting the poetry of Edgar Allan Poe",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/twarne/poe.git"
+  },
+  "keywords": [
+    "poe",
+    "poetry",
+    "alexa",
+    "raven"
+  ],
+  "author": "twarne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twarne/poe/issues"
+  },
+  "homepage": "https://github.com/twarne/poe#readme",
+  "devDependencies": {
+    "should": "^11.1.0"
+  }
+}
